@@ -1,0 +1,26 @@
+*{
+    background-color: #191c1f;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: azure;
+}
+
+h1{
+    font-size: 2em;
+    display: flex;
+    justify-content: center;
+    margin-top: 1em;
+
+}
+
+.shop{
+    background-color: #e28743;
+    margin: auto;
+    margin-top: 1em ;
+}
+
+.card-title{
+    background-color: #e28743;
+}
+.card-text{
+    background-color: #e28743;
+}
